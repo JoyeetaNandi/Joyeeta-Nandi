@@ -1,0 +1,11 @@
+C:\Users\sbjkhadka\Desktop\COMP123Projects\Theatre\Theatre\bin\Debug\netcoreapp2.1\Theatre.deps.json
+C:\Users\sbjkhadka\Desktop\COMP123Projects\Theatre\Theatre\bin\Debug\netcoreapp2.1\Theatre.runtimeconfig.json
+C:\Users\sbjkhadka\Desktop\COMP123Projects\Theatre\Theatre\bin\Debug\netcoreapp2.1\Theatre.runtimeconfig.dev.json
+C:\Users\sbjkhadka\Desktop\COMP123Projects\Theatre\Theatre\bin\Debug\netcoreapp2.1\Theatre.dll
+C:\Users\sbjkhadka\Desktop\COMP123Projects\Theatre\Theatre\bin\Debug\netcoreapp2.1\Theatre.pdb
+C:\Users\sbjkhadka\Desktop\COMP123Projects\Theatre\Theatre\obj\Debug\netcoreapp2.1\Theatre.csprojAssemblyReference.cache
+C:\Users\sbjkhadka\Desktop\COMP123Projects\Theatre\Theatre\obj\Debug\netcoreapp2.1\Theatre.csproj.CoreCompileInputs.cache
+C:\Users\sbjkhadka\Desktop\COMP123Projects\Theatre\Theatre\obj\Debug\netcoreapp2.1\Theatre.AssemblyInfoInputs.cache
+C:\Users\sbjkhadka\Desktop\COMP123Projects\Theatre\Theatre\obj\Debug\netcoreapp2.1\Theatre.AssemblyInfo.cs
+C:\Users\sbjkhadka\Desktop\COMP123Projects\Theatre\Theatre\obj\Debug\netcoreapp2.1\Theatre.dll
+C:\Users\sbjkhadka\Desktop\COMP123Projects\Theatre\Theatre\obj\Debug\netcoreapp2.1\Theatre.pdb
